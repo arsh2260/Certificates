@@ -1,2 +1,2 @@
 # Certificates
-Certificates can be viewed insite certificate folder.
+Certificates can be viewed inside certificate folder.
