@@ -1,2 +1,2 @@
 # Certificates
-This repo is for certificates.
+Certificates can be viewed insite certificate folder.
